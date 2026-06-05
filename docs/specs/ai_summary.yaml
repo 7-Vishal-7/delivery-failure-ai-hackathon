@@ -1,0 +1,13 @@
+spec_id: SPEC-03
+
+module: AI Summary
+
+inputs:
+  - case_details
+  - courier_remarks
+  - checklist_results
+
+outputs:
+  - business_summary
+  - operations_note
+  - recommended_action
