@@ -1,0 +1,12 @@
+spec_id: SPEC-06
+
+module: Audit Trail
+
+tracked_events:
+  - status_change
+  - checklist_result
+  - ai_generation
+  - user_action
+
+outputs:
+  - audit_log
