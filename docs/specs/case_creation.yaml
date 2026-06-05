@@ -1,0 +1,22 @@
+spec_id: SPEC-01
+
+module: Delivery Failure Case Creation
+
+inputs:
+  - order_number
+  - customer_name
+  - customer_contact
+  - delivery_address
+  - courier_partner
+  - failure_reason
+
+business_rules:
+  - order_number mandatory
+  - customer_contact mandatory
+  - failure_reason mandatory
+
+outputs:
+  - case_id
+  - status
+
+default_status: NEW
