@@ -1,0 +1,11 @@
+spec_id: SPEC-04
+
+module: Message Generator
+
+message_types:
+  - customer
+  - courier
+  - warehouse
+
+outputs:
+  - drafted_message
