@@ -1,0 +1,16 @@
+spec_id: SPEC-05
+
+module: Reattempt Management
+
+inputs:
+  - case_id
+  - owner
+  - due_date
+
+outputs:
+  - reattempt_schedule
+
+status:
+  - scheduled
+  - completed
+  - cancelled
