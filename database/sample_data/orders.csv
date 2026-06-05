@@ -1,0 +1,11 @@
+order_id,order_number,customer_id,product_category,delivery_address
+1,ORD1001,1,Electronics,"T Nagar, Chennai, Tamil Nadu"
+2,ORD1002,2,Fashion,"Anna Nagar, Chennai, Tamil Nadu"
+3,ORD1003,3,Books,"HSR Layout, Bengaluru, Karnataka"
+4,ORD1004,4,Home Appliances,"Madhapur, Hyderabad, Telangana"
+5,ORD1005,5,Grocery,"Andheri West, Mumbai, Maharashtra"
+6,ORD1006,6,Electronics,"Kakkanad, Kochi, Kerala"
+7,ORD1007,7,Furniture,"Velachery, Chennai, Tamil Nadu"
+8,ORD1008,8,Toys,"Whitefield, Bengaluru, Karnataka"
+9,ORD1009,9,Sports,"Baner, Pune, Maharashtra"
+10,ORD1010,10,Electronics,"Salt Lake, Kolkata, West Bengal"

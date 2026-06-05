@@ -1,0 +1,11 @@
+case_id,order_id,failure_reason,courier_partner,status
+1,1,Customer Unavailable,BlueDart,NEW
+2,2,Phone Not Reachable,Delhivery,PENDING_CUSTOMER
+3,3,Incorrect Address,DTDC,NEW
+4,4,Incomplete Address,Ekart,PENDING_CUSTOMER
+5,5,Customer Refused Delivery,BlueDart,CLOSED
+6,6,Package Damaged,Delhivery,PENDING_COURIER
+7,7,Courier Delay,DTDC,REATTEMPT_SCHEDULED
+8,8,Return To Warehouse,Ekart,RETURNED_TO_WAREHOUSE
+9,9,Customer Unavailable,BlueDart,REATTEMPT_COMPLETED
+10,10,Phone Not Reachable,Delhivery,RESOLVED
